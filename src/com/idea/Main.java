@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String args []){
 
-        Test.print();
+        //Test.print();
+        ConEx.Me();
     }
 }
